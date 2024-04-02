@@ -22,13 +22,24 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import jupita from "./company/jupita.jpeg";
+import sanwo from "./company/sanwo.jpeg";
+import buy9ja from "./company/buy9ja.jpeg";
+import ayo from "./company/ayo.jpeg";
+import joseph from "./company/joseph.jpeg";
+import bimbo from "./company/bimbo.jpeg";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+
+import rapyd from "./rapyd.png";
+import studio from "./studio.png";
+import lida from "./lida.png";
+import sanwo2 from "./sanwo2.png";
+import jupita2 from "./jupita2.png";
+import jobapi from "./jobapi.png";
+import maker from "./maker.png";
+import loan from "./loan.jpg";
+import wizcart from "./wizcart.png";
+import Gp from "./Gp.jpg";
 
 export {
   logo,
@@ -53,10 +64,20 @@ export {
   typescript,
   threejs,
   meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  jupita,
+  sanwo,
+  buy9ja,
+  ayo,
+  joseph,
+  bimbo,
+  rapyd,
+  studio,
+  lida,
+  sanwo2,
+  jupita2,
+  jobapi,
+  maker,
+  loan,
+  wizcart,
+  Gp
 };
