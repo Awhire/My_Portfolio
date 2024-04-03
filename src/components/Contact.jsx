@@ -70,6 +70,7 @@ const Contact = () => {
       >
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
+        <p className="text-secondary font-medium mb-4">Feel free to get in touch with me <br /> Awhireelvis@gmail.com</p>
 
         <form
           ref={formRef}
