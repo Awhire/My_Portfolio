@@ -34,7 +34,7 @@ const Hero = () => {
             variants={slideIn("left", "tween", 0.2, 1)}
             className="flex-[0.75] p-8 text-white "
           >
-            <img src={Gp} alt="Gp" className="w-[55%] h-[55%] lg:w-[60%] lg:h-[60%] xl:w-[250px] xl:h-[250px] object-contain rounded-full" />
+            <img src={Gp} alt="Gp" className="w-[55%] h-[55%] lg:w-[60%] lg:h-[60%] object-contain rounded-full" />
           </motion.div>
         </div>
       </div>
