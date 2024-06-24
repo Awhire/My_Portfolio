@@ -34,6 +34,8 @@ import rapyd from "./rapyd.png";
 import studio from "./studio.png";
 import lida from "./lida.png";
 import sanwo2 from "./sanwo2.png";
+import primed from "./primed.png"
+import nourisha from "./nourisha.png"
 import jupita2 from "./jupita2.png";
 import jobapi from "./jobapi.png";
 import maker from "./maker.png";
@@ -74,6 +76,8 @@ export {
   studio,
   lida,
   sanwo2,
+  primed,
+  nourisha,
   jupita2,
   jobapi,
   maker,

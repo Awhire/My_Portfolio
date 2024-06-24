@@ -28,6 +28,8 @@ import {
     maker,
     lida,
     sanwo2,
+    nourisha,
+    primed,
     jupita2,
     loan,
     wizcart,
@@ -51,11 +53,11 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "React Frontend Developer",
       icon: web,
     },
     {
-      title: "React Frontend Developer",
+      title: "Angular Developer",
       icon: web,
     },
     {
@@ -122,7 +124,7 @@ import {
   const experiences = [
     {
       title: "Frontend Engineer",
-      company_name: " Sanwo Technologies Limited",
+      company_name: " Sanwo Technologies Limited, Lagos",
       icon: sanwo,
       iconBg: "#E6DEDD",
       date: "2022 - Date",
@@ -137,10 +139,41 @@ import {
     },
     {
       title: "Frontend Engineer",
+      company_name: "Nourisha (Contract), UK",
+      icon: nourisha,
+      iconBg: "#E6DEDD",
+      date: "2023 - 2023",
+      points: [
+        "Built responsive, visually appealing user interfaces for eatnourisha using React and Next.js.",
+        "Developed payment system integrated with stripe for seamless and secure payments.",
+        "Implemented a robust cart management system, enabling users to easily add, edit and view their chosen meals. ",
+        "Build a subscription system for recurring food deliveries across UK.",
+        "Utilized Zustand for efficient application data management and scalability.",
+        "Collaborated effectively with backend developers and project managers.",
+        "Implemented best practices for web page speed and scalability.",
+      ],
+    },
+    {
+      title: "Frontend Engineer",
+      company_name: "PrimedEHealth, Lagos",
+      icon: primed,
+      iconBg: "#E6DEDD",
+      date: "2021 - 2022",
+      points: [
+        "Built user-facing applications using Angular to facilitate immediate access to healthcare data for patients and providers.",
+        "Developed reusable and testable UI components for a seamless user experience.",
+        "Participated in building the user interface for SmartClinic, PrimedEHealth's comprehensive suite designed to manage every aspect of healthcare administration including Electronic medical record management, Telemedicine capabilities, and Medical financial management.",
+        "Worked in ClickUp to manage tasks and achieve project goals, ensuring efficient task assignment, tracking and completion.",
+        "Participated in daily stand-up meetings with the team to stay informed about project progress, discuss tasks and align on priorities.",
+        "Conducted regular code reviews to maintain code quality and adherence to best practices, ensuring that the code base was robust, efficient, and easy to maintain.",
+      ],
+    },
+    {
+      title: "Frontend Engineer",
       company_name: "Global Buy Limited",
       icon: buy9ja,
       iconBg: "#E6DEDD",
-      date: "2021 - 2022",
+      date: "2020 - 2021",
       points: [
         "Developed and maintained an e-commerce application, leveraging frontend technologies such as React, Tailwind and JavaScript.",
         "Utilized state management libraries, such as Redux, to efficiently manage application data and maintain a scalable architecture.",
@@ -156,8 +189,9 @@ import {
       company_name: "Jupita Limited",
       icon: jupita,
       iconBg: "#E6DEDD",
-      date: "2019 - 2021",
+      date: "2019 - 2020",
       points: [
+        "Developed creative digital platforms using React to help businesses grow by efficiently connecting with their target audience.",
         " Designed front-end code using HTML, CSS, JavaScript, jQuery to create a responsive web application that works across desktops, tablet and mobile devices.",
         "Optimized front-end code and assets to improve website performance and loading times.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
