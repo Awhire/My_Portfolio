@@ -34,6 +34,7 @@ import {
     loan,
     wizcart,
     threejs,
+    smartClinicRecord,
   } from "../assets";
   
   export const navLinks = [
@@ -253,6 +254,32 @@ import {
       image: sanwo2,
       source_code_link: "https://sanwo.io/",
       site_link: "https://sanwo.io/"
+    },
+    {
+      name: "Smart Clinic (PrimedEHealth)",
+      description:
+        "At Smart Clinic, we are revolutionizing healthcare access by providing a seamless platform for managing your medical needs anytime, anywhere. Our innovative web application allows you to schedule instant appointments with healthcare providers, ensuring that you receive the care you need without delay.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Axios",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Web Socket",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "MUI",
+          color: "green-text-gradient",
+        },
+      ],
+      image: smartClinicRecord,
+      source_code_link: "https://smartclinichealthrecords.com/",
+      site_link: "https://smartclinichealthrecords.com/"
     },
     {
       name: " Jupita",

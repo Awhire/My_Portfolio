@@ -42,6 +42,7 @@ import maker from "./maker.png";
 import loan from "./loan.jpg";
 import wizcart from "./wizcart.png";
 import Gp from "./Gp.jpg";
+import smartClinicRecord from "./smartClinicRecord.png"
 
 export {
   logo,
@@ -83,5 +84,6 @@ export {
   maker,
   loan,
   wizcart,
-  Gp
+  Gp,
+  smartClinicRecord
 };
