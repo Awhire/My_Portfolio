@@ -125,10 +125,25 @@ import {
   const experiences = [
     {
       title: "Frontend Engineer",
+      company_name: "PrimedEHealth, Lagos",
+      icon: primed,
+      iconBg: "#E6DEDD",
+      date: "2024 - Date",
+      points: [
+        "Built user-facing applications using Angular to facilitate immediate access to healthcare data for patients and providers.",
+        "Developed reusable and testable UI components for a seamless user experience.",
+        "Participated in building the user interface for SmartClinic, PrimedEHealth's comprehensive suite designed to manage every aspect of healthcare administration including Electronic medical record management, Telemedicine capabilities, and Medical financial management.",
+        "Worked in ClickUp to manage tasks and achieve project goals, ensuring efficient task assignment, tracking and completion.",
+        "Participated in daily stand-up meetings with the team to stay informed about project progress, discuss tasks and align on priorities.",
+        "Conducted regular code reviews to maintain code quality and adherence to best practices, ensuring that the code base was robust, efficient, and easy to maintain.",
+      ],
+    },
+    {
+      title: "Frontend Engineer",
       company_name: " Sanwo Technologies Limited, Lagos",
       icon: sanwo,
       iconBg: "#E6DEDD",
-      date: "2022 - Date",
+      date: "2022 - 2024",
       points: [
         "Developed a robust escrow payment system that incorporates secure transactions, invoicing capabilities, an integrated accounting system, inventory management, investment and savings features",
         " Developed Sanwo Express, an instant escrow payment platform that enables users to send invoices, make secure payments without the need for logging in, and easily track transaction status.",
@@ -152,21 +167,6 @@ import {
         "Utilized Zustand for efficient application data management and scalability.",
         "Collaborated effectively with backend developers and project managers.",
         "Implemented best practices for web page speed and scalability.",
-      ],
-    },
-    {
-      title: "Frontend Engineer",
-      company_name: "PrimedEHealth, Lagos",
-      icon: primed,
-      iconBg: "#E6DEDD",
-      date: "2021 - 2022",
-      points: [
-        "Built user-facing applications using Angular to facilitate immediate access to healthcare data for patients and providers.",
-        "Developed reusable and testable UI components for a seamless user experience.",
-        "Participated in building the user interface for SmartClinic, PrimedEHealth's comprehensive suite designed to manage every aspect of healthcare administration including Electronic medical record management, Telemedicine capabilities, and Medical financial management.",
-        "Worked in ClickUp to manage tasks and achieve project goals, ensuring efficient task assignment, tracking and completion.",
-        "Participated in daily stand-up meetings with the team to stay informed about project progress, discuss tasks and align on priorities.",
-        "Conducted regular code reviews to maintain code quality and adherence to best practices, ensuring that the code base was robust, efficient, and easy to maintain.",
       ],
     },
     {
@@ -261,11 +261,11 @@ import {
         "At Smart Clinic, we are revolutionizing healthcare access by providing a seamless platform for managing your medical needs anytime, anywhere. Our innovative web application allows you to schedule instant appointments with healthcare providers, ensuring that you receive the care you need without delay.",
       tags: [
         {
-          name: "React",
+          name: "Angular",
           color: "blue-text-gradient",
         },
         {
-          name: "Axios",
+          name: "Rxjs",
           color: "green-text-gradient",
         },
         {
@@ -273,7 +273,7 @@ import {
           color: "pink-text-gradient",
         },
         {
-          name: "MUI",
+          name: "Angular MUI",
           color: "green-text-gradient",
         },
       ],
